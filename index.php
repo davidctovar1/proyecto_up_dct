@@ -1,6 +1,6 @@
 <html>
 <body>
-  <p>hola</p>
+  <p>Adios</p>
   <form action="welcome.php" method="post">
   Name: <input type="text" name="name"><br>
   E-mail: <input type="text" name="email"><br>
